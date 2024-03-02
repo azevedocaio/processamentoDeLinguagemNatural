@@ -1,0 +1,1128 @@
+Texto:
+
+Agora é Neymar. Agora tem que partir. Carregou pro meio, tocou pro Oscar, tem o Fred, recebeu, tem Neymar de novo, poço legal, bateu pro gol, bateu pro gol. Bateu para o gol, bateu para o gol. Pedro Brasil.
+
+JSON:
+
+[
+    {
+        "Id": "5b0df5cddf174d3a80afde5c63aa1aaa",
+        "RecognitionStatus": 0,
+        "Offset": 1900000,
+        "Duration": 88800000,
+        "Channel": 0,
+        "DisplayText": "Agora é Neymar. Agora tem que partir. Carregou pro meio, tocou pro Oscar, tem o Fred, recebeu, tem Neymar de novo, poço legal, bateu pro gol, bateu pro gol.",
+        "NBest": [
+            {
+                "Confidence": 0.72504586,
+                "Lexical": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "ITN": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "MaskedITN": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "Display": "Agora é Neymar. Agora tem que partir. Carregou pro meio, tocou pro Oscar, tem o Fred, recebeu, tem Neymar de novo, poço legal, bateu pro gol, bateu pro gol.",
+                "Words": [
+                    {
+                        "Word": "agora",
+                        "Offset": 1900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 5500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "neymar",
+                        "Offset": 5900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "agora",
+                        "Offset": 11100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 13900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 15500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "partir",
+                        "Offset": 16300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "carregou",
+                        "Offset": 21500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 26300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "meio",
+                        "Offset": 27500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tocou",
+                        "Offset": 31500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 34700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "oscar",
+                        "Offset": 35900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 40700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 42700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "fred",
+                        "Offset": 43100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "recebeu",
+                        "Offset": 48300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 54700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "neymar",
+                        "Offset": 56300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 60700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 62300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "poço",
+                        "Offset": 64300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "legal",
+                        "Offset": 69100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 73900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 76300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 77500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 83500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 85900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 87500000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.72504586,
+                "Lexical": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "ITN": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "MaskedITN": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "Display": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "Words": [
+                    {
+                        "Word": "agora",
+                        "Offset": 1900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 5500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "neymar",
+                        "Offset": 5900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "agora",
+                        "Offset": 11100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 13900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 15500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "partir",
+                        "Offset": 16300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "carregou",
+                        "Offset": 21500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 26300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "meio",
+                        "Offset": 27500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tocou",
+                        "Offset": 31500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 34700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "oscar",
+                        "Offset": 35900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 40700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 42700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "fred",
+                        "Offset": 43100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "recebeu",
+                        "Offset": 48300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 54700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "neymar",
+                        "Offset": 56300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 60700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 62300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "poço",
+                        "Offset": 64300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "legal",
+                        "Offset": 69100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 73900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 76300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 77500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 83500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 85900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 87500000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.72504586,
+                "Lexical": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "ITN": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "MaskedITN": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "Display": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "Words": [
+                    {
+                        "Word": "agora",
+                        "Offset": 1900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 5500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "neymar",
+                        "Offset": 5900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "agora",
+                        "Offset": 11100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 13900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 15500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "partir",
+                        "Offset": 16300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "carregou",
+                        "Offset": 21500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 26300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "meio",
+                        "Offset": 27500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tocou",
+                        "Offset": 31500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 34700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "oscar",
+                        "Offset": 35900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 40700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 42700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "fred",
+                        "Offset": 43100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "recebeu",
+                        "Offset": 48300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 54700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "neymar",
+                        "Offset": 56300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 60700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 62300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "poço",
+                        "Offset": 64300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "legal",
+                        "Offset": 69100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 73900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 76300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 77500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 83500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 85900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 87500000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.72504586,
+                "Lexical": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "ITN": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "MaskedITN": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "Display": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "Words": [
+                    {
+                        "Word": "agora",
+                        "Offset": 1900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 5500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "neymar",
+                        "Offset": 5900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "agora",
+                        "Offset": 11100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 13900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 15500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "partir",
+                        "Offset": 16300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "carregou",
+                        "Offset": 21500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 26300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "meio",
+                        "Offset": 27500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tocou",
+                        "Offset": 31500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 34700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "oscar",
+                        "Offset": 35900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 40700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 42700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "fred",
+                        "Offset": 43100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "recebeu",
+                        "Offset": 48300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 54700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "neymar",
+                        "Offset": 56300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 60700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 62300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "poço",
+                        "Offset": 64300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "legal",
+                        "Offset": 69100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 73900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 76300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 77500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 83500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 85900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 87500000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.72504604,
+                "Lexical": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "ITN": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "MaskedITN": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "Display": "agora é neymar agora tem que partir carregou pro meio tocou pro oscar tem o fred recebeu tem neymar de novo poço legal bateu pro gol bateu pro gol",
+                "Words": [
+                    {
+                        "Word": "agora",
+                        "Offset": 1900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 5500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "neymar",
+                        "Offset": 5900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "agora",
+                        "Offset": 11100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 13900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 15500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "partir",
+                        "Offset": 16300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "carregou",
+                        "Offset": 21500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 26300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "meio",
+                        "Offset": 27500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "tocou",
+                        "Offset": 31500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 34700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "oscar",
+                        "Offset": 35900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 40700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 42700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "fred",
+                        "Offset": 43100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "recebeu",
+                        "Offset": 48300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 54700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "neymar",
+                        "Offset": 56300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 60700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "novo",
+                        "Offset": 62300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "poço",
+                        "Offset": 64300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "legal",
+                        "Offset": 69100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 73900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 76300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 77500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 83500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pro",
+                        "Offset": 85900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 87500000,
+                        "Duration": 3200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "fe8217325d8a40f18de6c27a6f2cfc07",
+        "RecognitionStatus": 0,
+        "Offset": 93100000,
+        "Duration": 16800000,
+        "Channel": 0,
+        "DisplayText": "Bateu para o gol, bateu para o gol.",
+        "NBest": [
+            {
+                "Confidence": 0.35661325,
+                "Lexical": "bateu para o gol bateu para o gol",
+                "ITN": "bateu para o gol bateu para o gol",
+                "MaskedITN": "bateu para o gol bateu para o gol",
+                "Display": "Bateu para o gol, bateu para o gol.",
+                "Words": [
+                    {
+                        "Word": "bateu",
+                        "Offset": 93100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 95500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 97100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 97500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 102300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 104700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 106300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 106700000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.36235854,
+                "Lexical": "bateu para o gol bateu por golpe",
+                "ITN": "bateu para o gol bateu por golpe",
+                "MaskedITN": "bateu para o gol bateu por golpe",
+                "Display": "bateu para o gol bateu por golpe",
+                "Words": [
+                    {
+                        "Word": "bateu",
+                        "Offset": 93100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 95500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 97100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 97500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 102300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 105100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "golpe",
+                        "Offset": 106700000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.40007722,
+                "Lexical": "bateu para o gol bateu por gol",
+                "ITN": "bateu para o gol bateu por gol",
+                "MaskedITN": "bateu para o gol bateu por gol",
+                "Display": "bateu para o gol bateu por gol",
+                "Words": [
+                    {
+                        "Word": "bateu",
+                        "Offset": 93100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 95500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 97100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 97500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 102300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 105100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 106700000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.36235854,
+                "Lexical": "bateu para o gol bateu por golpe",
+                "ITN": "bateu para o gol bateu por golpe",
+                "MaskedITN": "bateu para o gol bateu por golpe",
+                "Display": "bateu para o gol bateu por golpe",
+                "Words": [
+                    {
+                        "Word": "bateu",
+                        "Offset": 93100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 95500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 97100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 97500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 102300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 105100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "golpe",
+                        "Offset": 106700000,
+                        "Duration": 3600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.40007722,
+                "Lexical": "bateu para o gol bateu por gol",
+                "ITN": "bateu para o gol bateu por gol",
+                "MaskedITN": "bateu para o gol bateu por gol",
+                "Display": "bateu para o gol bateu por gol",
+                "Words": [
+                    {
+                        "Word": "bateu",
+                        "Offset": 93100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 95500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 97100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 97500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "bateu",
+                        "Offset": 102300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "por",
+                        "Offset": 105100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "gol",
+                        "Offset": 106700000,
+                        "Duration": 3200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "aebf60e3c7b3410ab5fcf7776def7ed6",
+        "RecognitionStatus": 0,
+        "Offset": 231200000,
+        "Duration": 18800000,
+        "Channel": 0,
+        "DisplayText": "Pedro Brasil.",
+        "NBest": [
+            {
+                "Confidence": 0.054718092,
+                "Lexical": "pedro brasil",
+                "ITN": "pedro brasil",
+                "MaskedITN": "pedro brasil",
+                "Display": "Pedro Brasil.",
+                "Words": [
+                    {
+                        "Word": "pedro",
+                        "Offset": 231200000,
+                        "Duration": 16400000
+                    },
+                    {
+                        "Word": "brasil",
+                        "Offset": 247600000,
+                        "Duration": 2400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.054718092,
+                "Lexical": "pedro brasil",
+                "ITN": "pedro brasil",
+                "MaskedITN": "pedro brasil",
+                "Display": "pedro brasil",
+                "Words": [
+                    {
+                        "Word": "pedro",
+                        "Offset": 231200000,
+                        "Duration": 16400000
+                    },
+                    {
+                        "Word": "brasil",
+                        "Offset": 247600000,
+                        "Duration": 2400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.054718092,
+                "Lexical": "pedro brasil",
+                "ITN": "pedro brasil",
+                "MaskedITN": "pedro brasil",
+                "Display": "pedro brasil",
+                "Words": [
+                    {
+                        "Word": "pedro",
+                        "Offset": 231200000,
+                        "Duration": 16400000
+                    },
+                    {
+                        "Word": "brasil",
+                        "Offset": 247600000,
+                        "Duration": 2400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.054718092,
+                "Lexical": "pedro brasil",
+                "ITN": "pedro brasil",
+                "MaskedITN": "pedro brasil",
+                "Display": "pedro brasil",
+                "Words": [
+                    {
+                        "Word": "pedro",
+                        "Offset": 231200000,
+                        "Duration": 16400000
+                    },
+                    {
+                        "Word": "brasil",
+                        "Offset": 247600000,
+                        "Duration": 2400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.054718092,
+                "Lexical": "pedro brasil",
+                "ITN": "pedro brasil",
+                "MaskedITN": "pedro brasil",
+                "Display": "pedro brasil",
+                "Words": [
+                    {
+                        "Word": "pedro",
+                        "Offset": 231200000,
+                        "Duration": 16400000
+                    },
+                    {
+                        "Word": "brasil",
+                        "Offset": 247600000,
+                        "Duration": 2400000
+                    }
+                ]
+            }
+        ]
+    }
+]
